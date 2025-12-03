@@ -96,14 +96,8 @@ footer h4 {
 	margin-right: 1rem;
 }
 .memyselfi {
-	width: 100%;
-	height: auto;
-}
-.foot-nav {		
-	list-style: none;
-	display: flex;
-	flex-direction: column;
-	gap: 1.5rem;
+	width: auto;
+	height: 50%;
 }
 .foot-nav ul li {
 	align-content: center
